@@ -15,7 +15,6 @@ The analysis combines:
 The objective is to transform business data into actionable insights that can support better operational and financial decision-making.
 
 ---
-
 ## Business Questions
 
 The analysis focuses on questions such as:
@@ -162,6 +161,7 @@ Based on the analysis, the business should:
 ## Project Structure
 
 ```text
+
 Mr-Klean-Laundry-Business-Analytics/
 │
 ├── README.md
