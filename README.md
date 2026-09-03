@@ -175,7 +175,7 @@ Mr-Klean-Laundry-Business-Analytics/
 ## Project Files
 
 - [R Analysis Script](Mr_Klean_Laundry_Analysis_GitHub.R)
-- [Business Analytics Presentation](Mr_Klean_Laundry_Business_Analytics.pdf)
+- [Mr_Klean_Laundry_Business_Analytics.pdf](Mr_Klean_Laundry_Business_Analytics.pdf)
 - [Step-by-Step Modelling Report](Mr_Klean_Laundry_Step_by_Step_Modelling_Corrected.pdf)
 - [Dataset](LaundryBusinessMLDataset_final.csv)
 
